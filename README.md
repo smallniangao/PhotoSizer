@@ -126,6 +126,12 @@ F
 
 
 # 软件截图
+<img width="1117" height="844" alt="image" src="https://github.com/user-attachments/assets/e61eb91a-e2da-49da-a89d-79147cc3edac" />
+<img width="1116" height="843" alt="image" src="https://github.com/user-attachments/assets/e87554b0-9ef6-482e-8e2f-4eccb31ed866" />
+
+<img width="1110" height="798" alt="image" src="https://github.com/user-attachments/assets/ef242f8e-39b4-45d4-a602-7ee3cefca8e2" />
+<img width="1416" height="738" alt="image" src="https://github.com/user-attachments/assets/ebe5f376-abf4-43d8-a869-7d3307018cb6" />
+
 
 # 软件使用说明
 
